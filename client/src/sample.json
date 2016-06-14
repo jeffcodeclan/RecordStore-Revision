@@ -1,0 +1,17 @@
+module.exports = [
+  { "owner": "Nirvana",
+    "amount": 19.99,
+  },
+  { "owner": "Metallica",
+    "amount": 8.99,
+  },
+  { "owner": "Oasis",
+    "amount": 7.99,
+  },
+  { "owner": "Prodigy",
+    "amount": 6.99,
+  },
+  { "owner": "Libertines",
+    "amount": 5.99,
+  },
+]
